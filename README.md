@@ -24,4 +24,5 @@ A simple weather application built using Node.js and Express. This app fetches w
    ```bash
    git clone https://github.com/kbravrl/weather-app.git
    
-[1.webm](https://github.com/user-attachments/assets/36bee337-e691-478f-89ff-952a908df259)
+[1.webm](https://github.com/user-attachments/assets/721abebd-4fd3-4c42-985a-a0f49d611d3f)
+
