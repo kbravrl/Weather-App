@@ -1,5 +1,4 @@
-# Weather-App
-## Description
+# nodejs-weather-App
 
 A simple weather application built using Node.js and Express. This app fetches weather data from the OpenWeatherMap API and displays it to the user. The user can enter a city name to get current weather conditions, including temperature, weather description, and location details.
 
